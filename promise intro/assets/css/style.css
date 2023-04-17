@@ -1,0 +1,32 @@
+.header {
+    background-color: lightgrey;
+    text-align: center;
+    padding: 5px 0;
+}
+
+.content {
+    background-color: lightgrey;
+}
+
+.box img {
+    width:100%;
+    justify-content: center;
+    object-fit: cover;
+    height: 100px;
+    padding: 10px;
+ }
+
+.box {
+    background: #fff;
+    height: 300px;
+    object-fit: fill;
+    overflow-wrap: anywhere;
+}
+
+h5 {
+    color: orange;
+}
+
+* {
+    box-sizing: border-box;
+}
